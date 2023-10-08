@@ -1,0 +1,17 @@
+How to Create a Pull Request on GitHub
+A pull request (PR) is a way to propose changes to a GitHub repository. When you submit a PR, you're essentially saying, "Hey, I've made some changes to this code, and I think they'd be a valuable addition to the project."
+To create a PR, you'll need to have a GitHub account and be forked the repository you want to contribute to. Once you've done that, follow these steps:
+Navigate to the repository on GitHub.
+Click on the "Pull requests" tab.
+Click on the "New pull request" button.
+Select the branch you want to merge into.
+Enter a title and description for your PR.
+Click on the "Create pull request" button.
+Your PR will now be created and open for review. Once it's been merged, your changes will be added to the repository.
+Here are some additional tips for creating PRs:
+Make sure your changes are well-tested and documented.
+Provide clear and concise commit messages.
+Use a meaningful title and description for your PR.
+Reply to any comments or questions that are left on your PR.
+Be patient! It may take some time for your PR to be reviewed and merged.
+Creating PRs is a great way to contribute to open-source projects. By following these tips, you can make the process easier and more enjoyable for everyone involved.
